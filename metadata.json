@@ -1,0 +1,8 @@
+{
+  "shell-version": ["3.10.4"],
+  "uuid": "Slack_Integration@shindu666.gmail.com",
+  "name": "Slack Integration",
+  "description": "Add slack icon to the tray",
+  "url": "https://github.com/fishbullet/gnome-shell-slack-integration",
+  "version": 1
+}
